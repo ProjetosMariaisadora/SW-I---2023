@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Conta_bancaria\bin\Debug\net6.0\Conta_bancaria.exe
+C:\Users\Aluno\Desktop\Conta_bancaria\bin\Debug\net6.0\Conta_bancaria.deps.json
+C:\Users\Aluno\Desktop\Conta_bancaria\bin\Debug\net6.0\Conta_bancaria.runtimeconfig.json
+C:\Users\Aluno\Desktop\Conta_bancaria\bin\Debug\net6.0\Conta_bancaria.dll
+C:\Users\Aluno\Desktop\Conta_bancaria\bin\Debug\net6.0\Conta_bancaria.pdb
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\Conta_bancaria.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\Conta_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\Conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\Conta_bancaria.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\Conta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\Conta_bancaria.dll
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\refint\Conta_bancaria.dll
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\Conta_bancaria.pdb
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\Conta_bancaria.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Conta_bancaria\obj\Debug\net6.0\ref\Conta_bancaria.dll
