@@ -1,0 +1,15 @@
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\bin\Debug\net7.0\Exercicio_3.exe
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\bin\Debug\net7.0\Exercicio_3.deps.json
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\bin\Debug\net7.0\Exercicio_3.runtimeconfig.json
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\bin\Debug\net7.0\Exercicio_3.dll
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\bin\Debug\net7.0\Exercicio_3.pdb
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\Exercicio_3.csproj.AssemblyReference.cache
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\Exercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\Exercicio_3.AssemblyInfoInputs.cache
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\Exercicio_3.AssemblyInfo.cs
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\Exercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\Exercicio_3.dll
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\refint\Exercicio_3.dll
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\Exercicio_3.pdb
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\Exercicio_3.genruntimeconfig.cache
+C:\Users\ETEC\Downloads\Aulas_SWI-main\Ex_Heranca_Polimorfismo\Exercicio 3\obj\Debug\net7.0\ref\Exercicio_3.dll
